@@ -1,4 +1,4 @@
-# Git101
+# git101
 Learning Git Basics
 
 
